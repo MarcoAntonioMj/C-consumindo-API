@@ -1,0 +1,14 @@
+C:\Users\marco\OneDrive\Área de Trabalho\C-consumindo-API\ScrennSoundApi\ScrennSoundApi\bin\Debug\net6.0\ScrennSoundApi.exe
+C:\Users\marco\OneDrive\Área de Trabalho\C-consumindo-API\ScrennSoundApi\ScrennSoundApi\bin\Debug\net6.0\ScrennSoundApi.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\C-consumindo-API\ScrennSoundApi\ScrennSoundApi\bin\Debug\net6.0\ScrennSoundApi.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\C-consumindo-API\ScrennSoundApi\ScrennSoundApi\bin\Debug\net6.0\ScrennSoundApi.dll
+C:\Users\marco\OneDrive\Área de Trabalho\C-consumindo-API\ScrennSoundApi\ScrennSoundApi\bin\Debug\net6.0\ScrennSoundApi.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\C-consumindo-API\ScrennSoundApi\ScrennSoundApi\obj\Debug\net6.0\ScrennSoundApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\C-consumindo-API\ScrennSoundApi\ScrennSoundApi\obj\Debug\net6.0\ScrennSoundApi.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\C-consumindo-API\ScrennSoundApi\ScrennSoundApi\obj\Debug\net6.0\ScrennSoundApi.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\C-consumindo-API\ScrennSoundApi\ScrennSoundApi\obj\Debug\net6.0\ScrennSoundApi.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\C-consumindo-API\ScrennSoundApi\ScrennSoundApi\obj\Debug\net6.0\ScrennSoundApi.dll
+C:\Users\marco\OneDrive\Área de Trabalho\C-consumindo-API\ScrennSoundApi\ScrennSoundApi\obj\Debug\net6.0\refint\ScrennSoundApi.dll
+C:\Users\marco\OneDrive\Área de Trabalho\C-consumindo-API\ScrennSoundApi\ScrennSoundApi\obj\Debug\net6.0\ScrennSoundApi.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\C-consumindo-API\ScrennSoundApi\ScrennSoundApi\obj\Debug\net6.0\ScrennSoundApi.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\C-consumindo-API\ScrennSoundApi\ScrennSoundApi\obj\Debug\net6.0\ref\ScrennSoundApi.dll
